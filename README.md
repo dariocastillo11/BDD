@@ -1,6 +1,6 @@
 # 📘 Quiz de Bases de Datos
 
-Un quiz interactivo para estudiantes de Bases de Datos con 200+ preguntas de dos parciales.
+Un quiz interactivo para estudiantes de Bases de Datos con 200+ preguntas.
 
 ## Características
 
