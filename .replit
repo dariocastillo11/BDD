@@ -1,1 +1,1 @@
-run = "python baseadatosPreguntero.py"
+run = "streamlit run app.py"
